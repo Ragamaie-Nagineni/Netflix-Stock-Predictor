@@ -76,7 +76,7 @@ These metrics help quantify the prediction accuracy and provide insight into how
 
 Follow these steps to run the analysis and use the trained model:
 
-1. **Clone this repository to your local machine:**
+1.**Clone this repository to your local machine:**
    
    ```bash
    git clone https://github.com/Ragamaie-Nagineni/model-of-stock-data.git
@@ -84,6 +84,12 @@ Follow these steps to run the analysis and use the trained model:
    ```
    
 2.**Install Required Libraries**
+```bash
+pip install -r requirements.txt
+```
+
+or
+
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn joblib jupyter
  ```
