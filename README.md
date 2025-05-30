@@ -9,7 +9,7 @@ This project explores and analyzes Netflix (NFLX) stock data and builds a predic
 ## 🧾 Project Structure
 
 - **`NFLX.csv`** – Historical stock data for Netflix Inc.
-- **`ragamaie_data analasis.ipynb`** – Jupyter notebook with complete data exploration, visualization, feature engineering, model training, and evaluation.
+- **`data analasis.ipynb`** – Jupyter notebook with complete data exploration, visualization, feature engineering, model training, and evaluation.
 - **`random_model.pkl`** – A serialized machine learning model trained to predict stock price metrics based on historical data.
 
 ---
@@ -79,8 +79,8 @@ Follow these steps to run the analysis and use the trained model:
 1.**Clone this repository to your local machine:**
    
    ```bash
-   git clone https://github.com/Ragamaie-Nagineni/model-of-stock-data.git
-   cd model-of-stock-data
+   git clone https://github.com/Ragamaie-Nagineni/Netflix-Stock-Predictor.git
+   cd Netflix-Stock-Predictor
    ```
    
 2.**Install Required Libraries**
@@ -96,7 +96,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib jupyter
 
 3.**Open the Notebook**
 
-Launch Jupyter Notebook and open the file ragamaie_data analasis.ipynb.
+Launch Jupyter Notebook and open the file data analasis.ipynb.
 
 4.**Run the Notebook**
 
@@ -136,7 +136,7 @@ This model can be adapted for:
 ## 📌 Notes
 
 - This project is for educational and illustrative purposes only.  
-- It should **not** be used for actual investment or trading decisions.  
+- It should **NOT** be used for actual investment or trading decisions.  
 - The model's accuracy depends heavily on the quality of data and feature engineering.  
 - Further tuning, validation, and testing are strongly recommended before practical deployment.
 
@@ -152,7 +152,7 @@ This project is open-source and distributed under the [MIT License](LICENSE).
 
 ## 🤝 Contribution
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Ragamaie-Nagineni/model-of-stock-data/issues) or submit a pull request.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Ragamaie-Nagineni/Netflix-Stock-Predictor/issues) or submit a pull request.
 
 ---
 
